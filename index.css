@@ -35,7 +35,7 @@ body{
     display: none;
     transition: ease-in;
     transition-delay: 1s;
-    transition-duration: 1s;
+    transition-duration: 1s; 
 }
 #close-popup {
     color: black;

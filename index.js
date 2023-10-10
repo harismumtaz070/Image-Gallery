@@ -38,7 +38,7 @@ for(let i = 0 ; i < imageArray.length; i++){
     container.appendChild(imgDiv)
 }
 function showImagaePop(){
-  console.log(this.src)
+  console.log(this.src) 
   modal.style.display = 'block'
   modal.style.transition = 'ease-in'
   modal.style.transitionDelay = '1s'
